@@ -1,0 +1,41 @@
+Binary Creations 1.0.3
+----------------------
+
+
+Een tijdje geleden kwam ik tot de vaststelling dat ik met mijn standaard instellingen in Windows (taakbalk, bureaublad enz) niet echt meer kon doen wat ik wilde.
+Als voltijds programmeur maak ik gebruik van heel wat programma's, die ik graag direct en met weinig moeite en gedoe, vlug kan starten.
+Ook heb ik graag dat de koppelingen naar die vele programma's, niet steeds op de voorgrond of achtergrond staan, en ik ze met een minimum aantal handelingen kan starten.
+
+Na veel experimenteren met "Side Bar" programma's, kwam ik al snel tot de conclusie, dat ook deze niet altijd voldoen.
+
+Ik ben dan maar gestart met het project "Startpadding".
+De bedoeling was een programma te maken waarin de gebruiker zelf koppelingen kan beheren in een venster, dat hij kan nesten in het systeemvak 
+(zodat dit niet steeds op de voorgrond staat)
+
+Ik stelde al spoedig vast, dat in het gedeelte , waar de gebruiker een afbeelding kan kiezen om te koppelen met een programma, de standaard afbeeldingen die ik voor
+ de gebruiker voorzien had, waarschijnlijk niet zouden voldoen.
+De oplossing; de gebruiker de mogelijkheid geven om zelf afbeeldingen aan de standaard afbeeldingen toe te voegen.
+Om problemen met het bewaren van deze afbeeldingen te voorkomen, nam ik het besluit deze niet elk apart te bewaren, maar in 1 bestand.
+
+In het verleden had ik al wel veel gewerkt met het aanmaken van binaire bestanden met meerdere bestandsinhouden, of records,
+ maar niet met het toevoegen of verwijderen van bestanden uit een binair bestand (met records is dit vrij simpel).
+
+
+Na veel zoeken naar VB-code op het web, met weinig resultaat, ben ik dan maar gestart met dit project.
+
+
+Hopelijk kan ik hier ook u hiermee van dienst zijn!
+
+De bedoeling van dit programma: Meerdere bestanden overzetten naar 1 binair bestand
+				Bestandsinhoud van het binaire bestand lezen (aantal bestanden, bestandsnamen, enz...)
+				Bestanden uitpakken vanuit het binaire bestand
+				Bestanden toevoegen aan het binaire bestand
+				Bestanden verwijderen uit het binaire bestand
+
+Enkel de binaire bestanden die met dit programma (of gelijkaardig met zelfde basis) aangemaakt worden, kunnen met dit programma bewerkt worden.
+
+Omdat ik standaard alle info aangaande programmatie in het engels zet (voor anderstalige collega's), is het aangeraden dat je het engels beheerst.
+
+Voor reactie kan je altijd terecht bij: frank.donckers@gmail.com of darkmansoft@gmail.com, indien nodig geef ik via deze accounts mijn persoonlijk e-mail account.
+
+Het project "StartPadding", zal ik later ook op deze site plaatsen.

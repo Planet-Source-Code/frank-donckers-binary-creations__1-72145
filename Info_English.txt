@@ -1,0 +1,44 @@
+Binary Creations 1.0.3
+----------------------
+
+
+A while ago I came to the conclusion, that I no longer could do what i wanted with my standard items in Windows (taskbar, Desktop, etc. ) 
+As full-time programmer, I use lots of shortcuts to folders or files, and programs which I like to start directly, with little effort, and rapidly
+I also like, that the links to those many programs are not always on the foreground or in the background, and I can them start with a minimum number of operations
+After lots of experiments with "Side bar" programs, I came to the conclusion, that those "Side Bars" do not always satisfy
+
+So, I started the project "StartPadding.
+
+The intention was to make a program where the user himself, can manage links in a window that he can nest in the system tray 
+(so this window does not always hold a prominent place on the foreground)
+
+Shortly I could note already, that in the part, where the user can choose an image to link with a program, the standard images which I had foreseen,
+ probably would not satisfy the user
+
+The solution; give the user the possibility to add images to the standard images.
+
+To avoid problems with saving these images, I disided not to save these images separately, but in 1 file
+
+
+In the past I have been working lots of times with producing binary files with several file contents, or records, however,
+i didn't have any experiance with adding or removing files from a binary file (with records this is rather simple)
+
+
+After searching VB-code for it on the web , with little result , I've started with this project (binary Creations)
+
+
+Hopefully this can be also at your service!
+
+
+The intention of this program: Combining several files to 1 binary file
+                               Reading the file contents in the binary file (number of files, file names, etc.…)
+                               Unpack files from the binary file
+                               Add files to the binary file
+                               Remove files from the binary file
+
+
+Only the binary files which are produced with this program (or similar with the same base), can be edited with this program
+
+
+For response you can always contact me at: frank.donckers@gmail.com or darkmansoft@gmail.com, if necessary i'll give you my personally e-mail account via these accounts
+I'll be putting the project "Sartpadding" on this site later on
